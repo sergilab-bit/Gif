@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch:400,400i&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.ctn-head{
+	width: 1440px;
+	height: 23px;
+	background-image: linear-gradient(270deg, #F7C9F3 0%, #4180F6 100%);
+    box-shadow: 0 1px 0 0 #110038;
+    display: table-cell;
+    vertical-align: middle;
+}
+.head h6{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 12px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+}
+
+.ctn-home{
+    margin-top: 39px;
+    margin-left: 100px;
+    margin-right: 140px;
+    display: flex;
+    vertical-align: middle;
+    
+}
+.grafico{
+    padding-right: 535px;
+}
+.ctn-gifos{
+    display: flex;   
+    justify-content:space-between;
+    align-items: center;
+    line-height: 60px;
+    
+}
+
+
+.button{
+    padding-top:9px;
+    width: 144px;
+    height: 36px;
+    background: #F7C9F3;
+border: 1px solid #110038;
+box-shadow: inset -1px -1px 0 0 #997D97, inset 1px 1px 0 0 #FFFFFF;
+text-align: center;
+margin-right: 16.5px;
+}
+
+.button1{
+    padding-top:9px;
+    width: 144px;
+    height: 36px;
+    background: #F7C9F3;
+border: 1px solid #110038;
+box-shadow: inset -1px -1px 0 0 #997D97, inset 1px 1px 0 0 #FFFFFF;
+text-align: center;
+}
+
+.mgif{
+    margin-left: 5px;
+    font-family: 'Chakra Petch', sans-serif;
+font-size: 16px;
+color: #110038;
+letter-spacing: 0;
+line-height: 18px;
+}
+
+.button h6{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 16px;
+    color: #110038;
+    letter-spacing: 0;
+    line-height: 18px;
+      
+ }
+
+
+.button1 h6{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 16px;
+    color: #110038;
+    letter-spacing: 0;
+    line-height: 18px;
+      
+ }
+.button2 {
+    width: 36px;
+    height: 36px;
+    background: #F7C9F3;
+border: 1px solid #110038;
+box-shadow: inset -1px -1px 0 0 #997D97, inset 1px 1px 0 0 #FFFFFF;
+text-align: center;
+line-height: 35px;
+}
